@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: false
 title:  "初来乍到"
 date:   2014-09-24 17:46:00
 categories: jekyll test
