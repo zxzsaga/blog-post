@@ -10,6 +10,8 @@ permalink:
 ---
 骨骼动画是计算机动画中的一种技术，它把角色分为两部分表示：表现外表的蒙皮(skin or mesh)和控制动作的骨架.
 
+<!--more-->
+
 ![蒙皮和骨架](http://imgout.ph.126.net/50675181/Skin+26+Skeleton0Ahttp3A.jpg)
 
 骨架由很多骨骼组成，每个骨骼有一个 transformation（其中包括 position, scale, orientation），还可能有一个父骨骼。整个骨架表现为一个层级结构，每个节点的完整 transform 由其父节点的 transform 和自己的 transform 组成。Rig（泛指所有用骨架控制模型的动画制作方式）通常包含正向运动学和反向运动学。骨骼动画是指 rig 中的正向运动学。

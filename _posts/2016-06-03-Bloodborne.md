@@ -11,6 +11,8 @@ permalink:
 
 14年的时候为了玩 GTA5 买了 PS4, GTA 没玩多久，却被安利买了血源诅咒。当时我还不知道，几十个小时的噩梦开始了……
 
+<!--more-->
+
 先来看一段开场 CG:
 
 <center><iframe src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=OVMSOSKLxI0&lcode=&resourceId=22183862_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:480px;height:400px;"></iframe></center>
