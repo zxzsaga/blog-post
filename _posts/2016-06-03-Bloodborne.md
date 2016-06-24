@@ -8,7 +8,7 @@ tags:
 - 血源诅咒
 - 动作游戏
 - PS4
-categories:
+categories: Game
 permalink:
 ---
 

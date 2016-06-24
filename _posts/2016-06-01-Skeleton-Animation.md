@@ -5,7 +5,8 @@ date: 2016-06-01 16:33:42
 updated:
 comments:
 tags: Animation
-categories: GameDevelop
+categories:
+- Game Develop
 permalink:
 ---
 骨骼动画是计算机动画中的一种技术，它把角色分为两部分表示：表现外表的蒙皮(skin or mesh)和控制动作的骨架.
