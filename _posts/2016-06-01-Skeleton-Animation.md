@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: false
 title: Skeleton Animation
 date: 2016-06-01 16:33:42
 updated:
