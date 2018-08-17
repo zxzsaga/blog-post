@@ -15,6 +15,8 @@ photos:
 permalink:
 ---
 
+<!--more-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TfBlJ00Df-I" frameborder="0" allowfullscreen></iframe>
 
 <p style="text-align:center">不能科学上网的话，B站有个带字幕的：</p>
