@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 ---
 
-90后程序员，热爱游戏与足球。
+爱好：
 
-没有当上足球运动员，但成为了游戏开发者。
+- Game Dev
+    - Game Design
+    - Game Engineering
+- Game
+    - RTS
+    - Action Game
+    - RPG
+    - STG
+- Soccer
+	- Milan
+	- MU
+	- Liverpool
+
+邮箱：<zxzsaga@gmail.com>
