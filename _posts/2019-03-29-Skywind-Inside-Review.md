@@ -9,7 +9,7 @@ categories:
 permalink:
 ---
 
-最近关注了一位大牛[韦易笑](https://www.zhihu.com/people/skywind3000/activities)（这花名是表示他爱武侠也爱笑吗？），把他到目前为止的[博文](http://www.skywind.me/blog/)大致浏览了一下。我比较感兴趣的内容主要是关于 *游戏开发随笔* 和 *网络游戏技术* 两部分的。今天记录一下看了他一些 *游戏开发随笔* 后的感悟。
+最近关注了一位大牛[韦易笑](https://www.zhihu.com/people/skywind3000/activities)，把他到目前为止的[博文](http://www.skywind.me/blog/)大致浏览了一下。我比较感兴趣的内容主要是关于 *游戏开发随笔* 和 *网络游戏技术* 两部分的。今天记录一下看了他一些 *游戏开发随笔* 后的感悟。
 
 <!--more-->
 
