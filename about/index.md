@@ -19,4 +19,4 @@ permalink: /about/
 	- MU
 	- Liverpool
 
-邮箱：<zxzsaga@gmail.com>
+邮箱：zxzsaga@gmail.com
