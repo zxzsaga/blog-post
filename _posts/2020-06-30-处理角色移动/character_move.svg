@@ -1,1 +1,67 @@
-<svg height="155.59184" viewBox="491.59184 262 281.70817 155.59184" width="281.70817" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><marker id="a" markerHeight="8" markerUnits="strokeWidth" markerWidth="10" orient="auto" overflow="visible" stroke-miterlimit="10" viewBox="-1 -4 10 8"><path d="m8 0-8-3v6z" fill="none" stroke="#000" stroke-miterlimit="10"/></marker><g fill="none"><path d="m492.09184 417.09184h78.06122l102.84694-59.09184 62.4592-95.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="603" cy="385.1" fill="#fff" rx="10.000016" ry="10.500017"/><ellipse cx="603" cy="385.1" rx="10.000016" ry="10.500017" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="502.09184" cy="385.5" fill="#fff" rx="10.000016" ry="10.500017"/><ellipse cx="502.09184" cy="385.5" rx="10.000016" ry="10.500017" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="700" cy="296.5" fill="#fff" rx="10.000016" ry="10.500017"/><ellipse cx="700" cy="296.5" rx="10.000016" ry="10.500017" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/><path d="m512.0918 385.46037 71.00835-.28147" marker-end="url(#a)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="665.4" cy="349.3" fill="#fff" rx="10.000016" ry="10.500017"/><g stroke="#000" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="665.4" cy="349.3" rx="10.000016" ry="10.500017"/><g marker-end="url(#a)"><path d="m611.7778 380.06405 36.2573-20.8015"/><path d="m671.0695 340.64834 17.8348-27.21621"/></g></g><ellipse cx="725.4592" cy="315.5" fill="#fff" rx="10.000016" ry="10.500017"/><path d="m732.53024 308.0754c3.90526 4.1005 3.90526 10.7487 0 14.8492-3.90524 4.10054-10.23684 4.10054-14.14214 0-3.9052-4.1005-3.9052-10.7487 0-14.8492 3.9053-4.10053 10.2369-4.10053 14.14214 0" stroke="#000" stroke-dasharray="4 4" stroke-linecap="round" stroke-linejoin="round"/><path d="m674.2162 344.33847 33.7993-19.02152" marker-end="url(#a)" stroke="#000" stroke-dasharray="4 4" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="762.8" cy="385.5" fill="#fff" rx="10.000016" ry="10.500017"/><g stroke="#000" stroke-dasharray="4 4" stroke-linecap="round" stroke-linejoin="round"><path d="m769.8711 378.0754c3.9052 4.1005 3.9052 10.7487 0 14.8492-3.9053 4.10054-10.2369 4.10054-14.14215 0-3.90525-4.1005-3.90525-10.7487 0-14.8492 3.90525-4.10053 10.23685-4.10053 14.14215 0"/><path d="m613 385.12504 129.9001.32516" marker-end="url(#a)"/><path d="m730.3472 324.6632 27.5648 51.6736"/><path d="m708.1522 302.58393 9.1548 6.83214"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="486.59184 257 291.70817 165.59184" width="291.70817" height="165.59184">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.4\n2020-06-30 08:01:04 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="486.59184" y="257" width="291.70817" height="165.59184"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_4">
+        <path d="M 492.09184 417.09184 L 570.15306 417.09184 L 673 358 L 735.4592 262.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <ellipse cx="603" cy="385.1" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <ellipse cx="603" cy="385.1" rx="10.000015979019" ry="10.5000167779699" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <ellipse cx="502.09184" cy="385.5" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <ellipse cx="502.09184" cy="385.5" rx="10.000015979019" ry="10.5000167779699" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <ellipse cx="700" cy="296.5" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <ellipse cx="700" cy="296.5" rx="10.000015979019" ry="10.5000167779699" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="512.0918" y1="385.46037" x2="583.10015" y2="385.1789" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <ellipse cx="665.4" cy="349.3" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <ellipse cx="665.4" cy="349.3" rx="10.000015979019" ry="10.5000167779699" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <line x1="611.7778" y1="380.06405" x2="648.0351" y2="359.26255" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="671.0695" y1="340.64834" x2="688.9043" y2="313.43213" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <ellipse cx="725.4592" cy="315.5" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <path d="M 732.53024 308.0754 C 736.4355 312.1759 736.4355 318.8241 732.53024 322.9246 C 728.625 327.02514 722.2934 327.02514 718.3881 322.9246 C 714.4829 318.8241 714.4829 312.1759 718.3881 308.0754 C 722.2934 303.97487 728.625 303.97487 732.53024 308.0754" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="674.2162" y1="344.33847" x2="708.0155" y2="325.31695" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <ellipse cx="762.8" cy="385.5" rx="10.000015979019" ry="10.5000167779699" fill="white"/>
+        <path d="M 769.8711 378.0754 C 773.7763 382.1759 773.7763 388.8241 769.8711 392.9246 C 765.9658 397.02514 759.6342 397.02514 755.72895 392.9246 C 751.8237 388.8241 751.8237 382.1759 755.72895 378.0754 C 759.6342 373.97487 765.9658 373.97487 769.8711 378.0754" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="613" y1="385.12504" x2="742.9001" y2="385.4502" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_34">
+        <line x1="730.3472" y1="324.6632" x2="757.912" y2="376.3368" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_35">
+        <line x1="708.1522" y1="302.58393" x2="717.307" y2="309.41607" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

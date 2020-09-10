@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="148.5 156.582 311 204.918" width="311" height="204.918">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.4\n2020-09-10 05:58:15 +0000</metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="148.5" y="156.582" width="311" height="204.918"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_6">
+        <g id="Graphic_13">
+          <rect x="154" y="318.5" width="150" height="37.5" fill="#d68c8b"/>
+          <rect x="154" y="318.5" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(159 328.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.512" y="15">81 ~ 100</tspan>
+          </text>
+        </g>
+        <g id="Graphic_12">
+          <rect x="304" y="318.5" width="150" height="37.5" fill="#d68c8b"/>
+          <rect x="304" y="318.5" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(309 328.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="53.104" y="15">40%</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <rect x="304" y="281" width="150" height="37.5" fill="#ffe59a"/>
+          <rect x="304" y="281" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(309 290.526)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="53.104" y="15">70%</tspan>
+          </text>
+        </g>
+        <g id="Graphic_10">
+          <rect x="154" y="281" width="150" height="37.5" fill="#ffe59a"/>
+          <rect x="154" y="281" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(159 290.526)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="42.96" y="15">51 ~ 80</tspan>
+          </text>
+        </g>
+        <g id="Graphic_9">
+          <rect x="304" y="243.5" width="150" height="37.5" fill="#b5d6a9"/>
+          <rect x="304" y="243.5" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(309 253.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.656" y="15">100%</tspan>
+          </text>
+        </g>
+        <g id="Graphic_8">
+          <rect x="154" y="243.5" width="150" height="37.5" fill="#b5d6a9"/>
+          <rect x="154" y="243.5" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(159 253.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="47.408" y="15">0 ~ 50</tspan>
+          </text>
+        </g>
+        <g id="Graphic_7">
+          <rect x="304" y="206" width="150" height="37.5" fill="white"/>
+          <rect x="304" y="206" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(309 215.526)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.064" y="15">Gold Income</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3">
+          <title>矩形</title>
+          <rect x="154" y="206" width="150" height="37.5" fill="white"/>
+          <rect x="154" y="206" width="150" height="37.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(159 215.526)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.624" y="15">Population</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
